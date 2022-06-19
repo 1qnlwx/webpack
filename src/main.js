@@ -1,9 +1,7 @@
 import { lunbotu } from "./lunbotu.js";
 import { tab } from "./tabs.js";
 import App from './app.vue'
-lunbotu()
-tab()
-App()
+
 import './styles/index.css'
 import './styles/index.less'
 import gifSrc from './assets/1.gif'
@@ -18,4 +16,7 @@ import './assets/fonts/iconfont.css'
 const fn=()=>{
     console.log('你好');
 }
+lunbotu()
+tab()
+
 console.log(fn);

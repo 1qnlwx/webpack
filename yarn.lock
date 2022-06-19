@@ -2132,7 +2132,7 @@ faye-websocket@^0.11.3:
 
 file-loader@^6.2.0:
   version "6.2.0"
-  resolved "https://registry.npmmirror.com/file-loader/-/file-loader-6.2.0.tgz"
+  resolved "https://registry.npmmirror.com/file-loader/-/file-loader-6.2.0.tgz#baef7cf8e1840df325e4390b4484879480eebe4d"
   integrity sha512-qo3glqyTa61Ytg4u73GultjHGjdRyig3tG6lPtyX/jOEJvHif9uB0/OCI2Kif6ctF3caQTW2G5gym21oAsI4pw==
   dependencies:
     loader-utils "^2.0.0"
@@ -2758,6 +2758,13 @@ mimic-fn@^2.1.0:
   version "2.1.0"
   resolved "https://registry.npmmirror.com/mimic-fn/-/mimic-fn-2.1.0.tgz"
   integrity sha512-OqbOk5oEQeAZ8WXWydlu9HJjz9WVdEIvamMCcXmuqUYjTknH/sqsWvhQ3vgwKFRR1HpjvNBKQ37nbJgYzGqGcg==
+
+mini-css-extract-plugin@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.npmmirror.com/mini-css-extract-plugin/-/mini-css-extract-plugin-2.6.1.tgz#9a1251d15f2035c342d99a468ab9da7a0451b71e"
+  integrity sha512-wd+SD57/K6DiV7jIR34P+s3uckTRuQvx0tKPcvjFlrEylk6P4mQ2KSWk1hblj1Kxaqok7LogKOieygXqBczNlg==
+  dependencies:
+    schema-utils "^4.0.0"
 
 minimalistic-assert@^1.0.0:
   version "1.0.1"
@@ -3662,7 +3669,7 @@ uri-js@^4.2.2:
 
 url-loader@^4.1.1:
   version "4.1.1"
-  resolved "https://registry.npmmirror.com/url-loader/-/url-loader-4.1.1.tgz"
+  resolved "https://registry.npmmirror.com/url-loader/-/url-loader-4.1.1.tgz#28505e905cae158cf07c92ca622d7f237e70a4e2"
   integrity sha512-3BTV812+AVHHOJQO8O5MkWgZ5aosP7GnROJwvzLS9hWDj00lZ6Z0wNak423Lp9PBZN05N+Jk/N5Si8jRAlGyWA==
   dependencies:
     loader-utils "^2.0.0"
